@@ -1,0 +1,7 @@
+---
+title: "Welcome - and Thank YOU!"
+---
+
+It's crazy to think that I've been in Colorado now for just about a month! When I say time has flown, that's a bit of an understatement. Considering I'm at about the halfway point of this summer internship, I figured it was a great time to share my reflections and experiences with YOU, the ones who made it possible. Without your support and prayers, I wouldn't be here, and I truly couldn't imagine being anywhere else. How to share those thoughts? Why a website of course! I am a web development intern, after all ...
+
+Anyway, I hope you enjoy these bits and pieces of my life this summer. I'll try to update it occassionally until I leave here in August. I'd love to hear how you are doing as well, and if there's anything in your life that I can pray for right now. Don't hesitate to reach out :)
