@@ -2,6 +2,7 @@
 layout: default
 title: "Catholic in CO"
 ---
-# Beautiful Churches
+## Beautiful Churches
 
-# Prayer Reflection
+## Prayer Reflection
+[Lucky Me: June 18](https://mjheinhold.github.io/focus-intern-2021/2021/06/18/2021-Lucky-Me)
