@@ -1,0 +1,11 @@
+# Welcome to QGI!
+
+This summer, I'm working on the QGI team, which stands for Quality Growth and Innovation. The cool thing about the department is how diverse the roles and projects encompassed by it are. One of those projects, Acts, is working on the software that missionaries, and students use for bible studies and discipleships. This is the project I am mainly working on this summer, as a web developer. This project is a collab between QGI and IT, and we also rely on feedback from the people that actually use the website.
+I've already done quite a few things, like bug fixes or making formatting uniform across pages. For the next few weeks, I am adding a new feature for parishes!
+It's been a lot of fun so far, and I've learned a lot!
+
+Me, my manager Caitlin, and the other QGI intern Emma:
+<img src="https://user-images.githubusercontent.com/85954819/125208854-4489a880-e252-11eb-8443-de5f27034741.jpg" width="250">
+
+Our desks for the summer (decorated by the team):
+<img src="https://user-images.githubusercontent.com/85954819/125208893-7ef34580-e252-11eb-9221-2a45660a7566.jpg" width="250">
