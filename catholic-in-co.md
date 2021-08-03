@@ -10,4 +10,6 @@ title: "Catholic in CO"
 
 [Lucky Me: June 18](https://mjheinhold.github.io/focus-intern-2021/2021/06/18/Lucky-Me)
 
+[The Lamb's Supper: June 25](https://mjheinhold.github.io/focus-intern-2021/2021/06/25/the-Lambs-Supper)
+
 [Home of the Free: July 4](https://mjheinhold.github.io/focus-intern-2021/2021/07/04/Home-of-the-Free)
